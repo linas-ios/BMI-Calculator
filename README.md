@@ -1,6 +1,6 @@
-#Building BMI Calculator App for learning purposes
+# Building BMI Calculator App for learning purposes
 
-##Goals:
+## Goals:
 
 
 ###### 🎚️ Learn how to use UISliders
